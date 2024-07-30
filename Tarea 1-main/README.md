@@ -1,0 +1,3 @@
+# A1
+Este es el primer ejercicio que hicimos en la clase de programación para empezar a utilizar Java...
+Actividad 1 Ayker Hernández
